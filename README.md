@@ -3,13 +3,12 @@
 
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 
-
-
 ### Notes
 - If local connections work but not External: see chapter Portforwarding
 - IP needs to be your local one (like in almost every WGSM server)
 - The ServerMap field will be used for choosing your world/savegame
 - If you change the datadir value, you will need to start the Server once without the -nogui parameter to setup the world and initial config.
+- Mods are installed in serverfiles\\data\\mods
 
 ### Migrate old server
 - move your datafolder from %appdata%\\Necesse to serverfiles\\data
